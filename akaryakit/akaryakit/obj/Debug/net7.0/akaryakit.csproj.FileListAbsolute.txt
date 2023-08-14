@@ -1,0 +1,14 @@
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\bin\Debug\net7.0\akaryakit.exe
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\bin\Debug\net7.0\akaryakit.deps.json
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\bin\Debug\net7.0\akaryakit.runtimeconfig.json
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\bin\Debug\net7.0\akaryakit.dll
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\bin\Debug\net7.0\akaryakit.pdb
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\obj\Debug\net7.0\akaryakit.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\obj\Debug\net7.0\akaryakit.AssemblyInfoInputs.cache
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\obj\Debug\net7.0\akaryakit.AssemblyInfo.cs
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\obj\Debug\net7.0\akaryakit.csproj.CoreCompileInputs.cache
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\obj\Debug\net7.0\akaryakit.dll
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\obj\Debug\net7.0\refint\akaryakit.dll
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\obj\Debug\net7.0\akaryakit.pdb
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\obj\Debug\net7.0\akaryakit.genruntimeconfig.cache
+c:\Users\Toshıba\Desktop\projects\akaryakit\akaryakit\obj\Debug\net7.0\ref\akaryakit.dll

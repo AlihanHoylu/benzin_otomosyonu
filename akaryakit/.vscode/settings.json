@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "akaryakit.sln",
+    "csharp.debug.console": "externalTerminal",
+}
